@@ -9,7 +9,7 @@
 
 ### [stockfish_nnue_probe](https://github.com/VedantJoshi1409/stockfish_nnue_probe)
 - **Description:** A library for probing Stockfish's NNUEs
-- **Language:** C++
+- **Language:** C++/Java
 
 ## About Me
 
