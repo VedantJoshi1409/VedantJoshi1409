@@ -1,5 +1,5 @@
 # Hi there, I'm Vedant Joshi! 👋
-## I am a Canadian high school student, passionate about machine learning and game-playing AI.
+## I am a Computer Science student of the University of Waterloo, passionate about machine learning and game-playing AI.
 
 ## Pinned Repositories
 
