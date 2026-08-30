@@ -1,4 +1,4 @@
-# Hi there, I'm Vedant Joshi! 👋
+# Hi I'm Vedant Joshi
 ## I am a Computer Science student of the University of Waterloo, passionate about machine learning and game-playing AI.
 
 ## Pinned Repositories
